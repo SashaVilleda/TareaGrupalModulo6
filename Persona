@@ -1,0 +1,15 @@
+//Sasha Stephany Villeda Banegas
+//201810040089
+
+package tareagrupalmodulo6.persona;
+
+
+public class Persona {
+    public abstract class persona{
+        abstract String getNombre;
+        abstract String getIdentidad;
+        abstract int getEdad;
+        abstract int getCelular;
+        
+    }
+}
