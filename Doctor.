@@ -1,0 +1,20 @@
+package tareagrupalmodulo6.persona;
+
+
+public class Doctor extends Persona {
+    
+    public String getNombre(){
+        return "Patricia Fernandez.";
+}
+    public String getIdentidad(){
+        return "0928 1975 09678";
+}
+    
+    public int getEdad(){
+        return 34;
+}
+    public int getCelular(){
+        return 99345612;
+    }
+    
+}
