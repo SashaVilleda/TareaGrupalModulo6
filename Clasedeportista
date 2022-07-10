@@ -1,0 +1,18 @@
+package tareagrupalmodulo6.persona;
+
+
+public class Deportista extends Persona {
+    
+     public String getNombre(){
+    return "Julio Lenin.";}
+     
+    public String getIdentidad(){
+    return "0139 1997 00012";}
+    
+    public int getEdad(){
+    return 24;}
+    
+    public int getCelular(){
+    return 89765418;}
+    
+}
